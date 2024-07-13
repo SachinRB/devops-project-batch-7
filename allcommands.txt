@@ -1,0 +1,276 @@
+    1  lsb_release -a
+    2  clear
+    3  date
+    4  echo "Hello Sachindate"
+    5  pwd
+    6  whoami
+    7  ls
+    8  ls -a
+    9  ls -alrt
+   10  mkdir devops
+   11  ls 
+   12  touch devops.txt
+   13  ls
+   14  cd devops
+   15  ls
+   16  cd
+   17  pwd
+   18  cd /
+   19  ls
+   20  cd /bin
+   21  ls
+   22  cd 
+   23  cd /
+   24  cd boot
+   25  ls
+   26  cd grub
+   27  ls
+   28  cd
+   29  pwd
+   30  ping www.google.com
+   31  clear
+   32  ls
+   33  cd devops
+   34  touch file{1..10}.txt
+   35  ls
+   36  mkdir day{00..90}
+   37  rm -r day*
+   38  ls
+   39  cd 
+   40  ls
+   41  cd /
+   42  ls
+   43  cd root
+   44  ls
+   45  cd
+   46  adduser -m jenny
+   47  ls
+   48  useradd -m jennu
+   49  sudo useradd -m jenny
+   50  sudo su 
+   51  sudo apt-get install docker.io
+   52  apt get install
+   53  apt-get install
+   54  apt-get update
+   55  sudo apt-get update
+   56  sudo apt-get install docker.io
+   57  docker
+   58  clear
+   59  sudo apt install nginx
+   60  sudo user jenny
+   61  sudo apt purge docker
+   62  whoami i
+   63  whoami
+   64  docker
+   65  sudo apt purge docker
+   66  sudo apt-get install docker -y
+   67  sudo apt-get install docke.io -y
+   68  clear
+   69  docker
+   70  clear
+   71  ls
+   72  vi file1.txt
+   73  cat file1.txt
+   74  head file1.txt
+   75  vi file1.txt
+   76  head file1.txt
+   77  head file1.txt -n 4
+   78  tail file1.txt -n 1
+   79  tail file1.txt -n 2
+   80  cat file1.txt
+   81  ps -e
+   82  Ps -e | grep i 
+   83  su - jenny
+   84  ]]]]]]]
+   85  '
+   86  ]'
+   87  uname
+   88  uname -r
+   89  clear
+   90  history
+   91  sudo apt purge docker
+   92  date
+   93  mkdir sachin
+   94  ls
+   95  mkdir dev qa test
+   96  ls
+   97  mkdir -p /dev/qa/test/devops
+   98  chmod 777 dev
+   99  mkdir -p /dev/qa/test/devops
+  100  sudo mkdir -p /dev/qa/test/devops
+  101  ls
+  102  cd dev
+  103  ls
+  104  mkdir -p /dev/qa/test/devops
+  105  ls
+  106  cd ..
+  107  ls
+  108  cd v
+  109  cd dev
+  110  ls
+  111  cd ..
+  112  cd sachin
+  113  ls
+  114  mkdir /students{1..10}
+  115  cd ..
+  116  chmod -R 777 sachin
+  117  cd sachin 
+  118  mkdir students1
+  119  ls
+  120  mkdir students{1..10}
+  121  mkdir students{2..10}
+  122  ls -alrt
+  123  ls -lart
+  124  ls
+  125  cd students1
+  126  touch java python react
+  127  ls
+  128  cd ..
+  129  cp ./students1/* ./students2
+  130  cd students2
+  131  ls
+  132  whoami 
+  133  cleqr
+  134  clear
+  135  ps -e
+  136  ps -e | more
+  137  ps -ef
+  138  ps -ef | grep i
+  139  ps -ef
+  140  ps aux
+  141  clear
+  142  ps aux | more
+  143  sudo apy install apache2
+  144  sudo apt install apache2
+  145  clear
+  146  ps -ef |  grep httpd
+  147  whereis ls
+  148  cd /usr/bin/
+  149  ls
+  150  lsblk -f
+  151  cd ..
+  152  ls
+  153  cd ect
+  154  cd etc
+  155  ls
+  156  cat cron.daily
+  157  cd cron.daily
+  158  ls
+  159  cd ..
+  160  ls
+  161  cd proc
+  162  ls
+  163  cd ..
+  164  ls -lart
+  165  cd home
+  166  ls
+  167  cd jenny
+  168  cd ubuntu
+  169  ls
+  170  cd 
+  171  cd /
+  172  ls
+  173  cd root
+  174  ls
+  175  su -
+  176  ps
+  177  cd
+  178  ps
+  179  bash
+  180  sleep 60s
+  181  ps -ef | grep apache2
+  182  systemctl status apache2
+  183  ps -ef | grep docker
+  184  ps -u jenny
+  185  ps -u root
+  186  ps -ejh
+  187  ps -ejh | grep apache2
+  188  ps -ejH | grep apache2
+  189  systemctl status apache2
+  190  kill -l
+  191  ps -ef | grep sleep
+  192  kill 2097
+  193  ps -ef | grep sleep
+  194  kill 2097
+  195  kill 2110
+  196  ps -ef | grep sleep
+  197  kill -9 2116
+  198  ps -ef | grep sleep
+  199  kill -2 2119
+  200  ps -ef | grep sleep
+  201  kill -15 2124
+  202  ps -ef | grep apache2
+  203  kill 573
+  204  kill -9 573
+  205  su adduser guddu
+  206  su useradd guddu
+  207  su useras
+  208  ls -lart
+  209  cd .ssh
+  210  ls
+  211  vi authorized_keys
+  212  clear
+  213  git --version
+  214  mkdir git-tutorial
+  215  cd git-tutorial
+  216  apt-get update
+  217  mkdir devops-project-batch-7
+  218  ls
+  219  mkdir devops-practice-project
+  220  cd devops-project-batch-7
+  221  git init
+  222  clear
+  223  ls -a
+  224  cd .git/
+  225  ;s
+  226  ls
+  227  clear
+  228  cd ..
+  229  ls
+  230  clear
+  231  ls
+  232  cd ..
+  233  ls
+  234  cd devops-practice-project
+  235  ls -a
+  236  cd ..
+  237  ls
+  238  cd devops-project-batch-7
+  239  ls
+  240  ls -la
+  241  clear
+  242  touch laila.txt
+  243  l
+  244  touch majnu.txt
+  245  ls
+  246  ls -l
+  247  git status
+  248  rm laila.txt 
+  249  ls
+  250  touch laila.txt
+  251  ls
+  252  get status
+  253  git status
+  254  git add laila.txt
+  255  git status
+  256  git rm --cached laila.txt
+  257  git status
+  258  git add laila.txt
+  259  git add majnu.txt
+  260  git status
+  261  git rm --cached laila.txt
+  262  git status
+  263  git add laila.txt 
+  264  git status
+  265  clear
+  266  git commit -m "Initial Commit"
+  267  git status
+  268  git log
+  269  ls
+  270  rm majnu.txt
+  271  ls
+  272  git status
+  273  git restore majnu.txt
+  274  ls
+  275  history
+  276  history >> allcommands.txt
