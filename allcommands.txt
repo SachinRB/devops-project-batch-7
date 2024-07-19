@@ -273,5 +273,5 @@
   273  git restore majnu.txt
   274  ls
   275  history
-These are my commands
+These are my commandssss
   276  history >> allcommands.txt
